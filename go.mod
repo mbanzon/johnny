@@ -1,4 +1,4 @@
-module github.com/mbanzon/spider
+module github.com/mbanzon/johnny
 
 go 1.12
 
